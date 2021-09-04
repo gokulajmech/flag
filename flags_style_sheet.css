@@ -1,0 +1,42 @@
+.row > div{
+
+    height:15rem;
+    background:white;
+    border:1px solid white;
+    padding:0px;
+    margin:0px;
+    
+  }
+  .set{
+    display:flex;
+            flex-direction: column;
+      justify-content: center;
+    border:5px solid white;
+    
+  }
+  .ger{
+    
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    width:10.5rem;
+    height:8rem;
+  /*   position:absolute;
+    right:0px; */
+    
+    
+  }
+  .details{
+   background:white;
+    width:10.1rem;
+    padding:8px;
+    margin-left:6.5px;
+    font-size:10px;
+    
+   
+    
+  }
+  .c-size{
+    font-size:12px;
+  }
+  
+  
